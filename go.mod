@@ -1,4 +1,4 @@
-module github.com/Olaibo/is105sem03/mycrypt
+module github.com/Olaibo/is105sem03
 
 go 1.19
 
